@@ -1,0 +1,18 @@
+.layoutParent{
+    width: 1559px;
+    height: 982px;
+    top: -491px;
+    left: -756px;
+    gap: 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+}
+
+.layoutBackground{
+    display: flex;
+    width: 1,559px;
+    height: 982px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #313338;
+}

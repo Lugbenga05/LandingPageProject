@@ -1,0 +1,654 @@
+.FFbackground{
+    width: 1255.3px;
+    height: 946px;
+    gap: 0px;
+    opacity: 0px;
+    background: #313338;
+}
+
+.FFheader-wrap{
+    width: Fill (1255.3px)px;
+    height: Hug (48px)px;
+    padding: 12px 16px 12px 16px;
+    gap: 8px;
+    border: 0px 0px 1px 0px;
+    opacity: 0px;
+    border-bottom: 1px solid #26282C
+
+}
+
+.FFheader{
+    display: flex;
+    justify-content: space-between;
+}
+
+.avatarFiggy-wrap{
+    display: flex;
+    width: 74px;
+    height: 24px;
+    gap: 8px;
+    opacity: 0px;
+}
+
+#avatarIcon{
+    width: 24px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+#figgyText{
+    width: 42px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 23.17px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.contactInput-wrap{
+    display: flex;
+}
+
+.pinContact-wrap{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 15px;
+    width: 63.95px;
+    height: 23.98px;
+    gap: 16px;
+    opacity: 0px;
+}
+
+.input-wrap{
+    display: flex;
+    width: 143.85px;
+    height: 23.98px;
+    padding: 0px 5.99px 0px 5.99px;
+    gap: 0px;
+    border-radius: 3px 0px 0px 0px;
+    opacity: 0px;
+    background: #1E1F22;
+}
+
+#searchInput{
+    width: 107.89px;
+    height: 19.98px;
+    gap: 0px;
+    opacity: 0px;
+    background-color:  #1E1F22 ;
+    border: none;
+}
+
+#searchInput::placeholder{
+    font-family: Noto Sans KR;
+    font-size: 13.99px;
+    font-weight: 400;
+    line-height: 20.25px;
+    text-align: left;
+    color: #B6BAC099;
+}
+
+#searchButton{
+    width: 23.98px;
+    height: 23.98px;
+    /* padding: 4px; */
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 15px;
+    background-color:  #1E1F22 ;
+    border: none;
+    cursor: pointer;
+}
+
+.dateBackground{
+    width: Fill (1,255.3px)px;
+    height: Hug (33px)px;
+    padding: 8px 15px 8px 15px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.date-wrap{
+    width: 1,225.3px;
+    height: 17px;
+    gap: 6px;
+    opacity: 0px;
+    display: flex;
+}
+
+.horizontalLine{
+    width: 552.65px;
+    height: 0px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #3F4147;
+    margin-top: 6px;
+}
+
+#dateText{
+    width: 108px;
+    height: 17px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 17.38px;
+    text-align: left;
+    color: #A5AAB1;
+    margin-left: 8px;
+}
+
+.promptBackground{
+    width: 1255.3px;
+    height: 531.46px;
+    padding: 6px 0px 6px 0px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.prompt-wrap{
+    width: 1255.3px;
+    height: 519.46px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.textContent-wrap{
+    width: 1255.3px;
+    height: 253.74px;
+    padding: 0px 15.98px 7.99px 15.98px;
+    gap: 23.98px;
+    opacity: 0px;
+}
+
+.welcome-wrap{
+    width: 1223.33px;
+    height: 51.97px;
+    padding: 2px 0px 2px 0px;
+    gap: 15.98px;
+    opacity: 0px;
+    display: flex;
+}
+
+.figgy-wrap{
+    width: 1167.39px;
+    height: 47.97px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+#figgyImage{
+    width: 38.96px;
+    height: 33.96px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+#figgyLine{
+    width: 187.98px;
+    height: 23px;
+    gap: 5.99px;
+    opacity: 0px;
+}
+
+#figgyTitle{
+    width: 41px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 15.98px;
+    font-weight: 500;
+    line-height: 23.14px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+#bot{
+    width: 26.99px;
+    height: 14.98px;
+    padding: 2px 3px 2px 3px;
+    gap: 0px;
+    border-radius: 2px 0px 0px 0px;
+    opacity: 0px;
+    background: #5A65EA;
+    border: none;
+    font-family: Noto Sans KR;
+    font-size: 9.99px;
+    font-weight: 700;
+    line-height: 14.47px;
+    text-align: left;
+    color: #DCDEE1;
+}
+
+#figgyDate{
+    width: 63px;
+    height: 17px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 11.99px;
+    font-weight: 400;
+    line-height: 17.36px;
+    text-align: left;
+    color: #AAAEB6;
+}
+
+#figgyTime{
+    width: 44px;
+    height: 17px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 11.99px;
+    font-weight: 400;
+    line-height: 17.36px;
+    text-align: left;
+    color: #AAAEB6;
+}
+
+#figmalogo-text{
+    width: 244.98px;
+    height: 24.97px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+#ffText-one{
+    width: 88px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 15.98px;
+    font-weight: 400;
+    line-height: 23.14px;
+    text-align: left;
+    color: #DCDEE1;
+}
+
+#ffText-two{
+    width: 134px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 15.98px;
+    font-weight: 700;
+    line-height: 23.14px;
+    text-align: left;
+    color: #DCDEE1;
+}
+
+#figmaLogo{
+    width: 16.98px;
+    height: 14.98px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.welcome-wrapTwo{
+    width: 1,223.33px;
+    height: 167.92px;
+    padding: 0px 0px 0px 55.94px;
+    gap: 23.98px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.contentOne{
+    width: 1,167.39px;
+    height: 47.97px;
+    gap: 3px;
+    opacity: 0px;
+}
+
+.contentOne-text{
+    width: 1089.93px;
+    height: 21.98px;
+    gap: 2px;
+    opacity: 0px;
+
+}
+
+#makeSure{
+    width: 160px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 15.98px;
+    font-weight: 400;
+    line-height: 23.14px;
+    text-align: left;
+    color: #DCDEE1;
+}
+
+#ffRules{
+    width: 227.96px;
+    height: 23px;
+    padding: 0px 3px 0px 3px;
+    gap: 3px;
+    border-radius: 2px 0px 0px 0px;
+    opacity: 0px;
+    color: #DCDEE1;
+    background: #5A65EA66;
+}
+
+#thenClick{
+    width: 331px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 15.98px;
+    font-weight: 400;
+    line-height: 23.14px;
+    text-align: left;
+    color: #DCDEE1;
+}
+
+.noAccess{
+    width: 92.98px;
+    height: 23px;
+    padding: 0px 3px 0px 3px;
+    gap: 3px;
+    border-radius: 2px 0px 0px 0px;
+    opacity: 0px;
+    background: #5A65EA66;
+    color: #DCDEE1;
+}
+
+#getAccess{
+    width: 270px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 15.98px;
+    font-weight: 400;
+    line-height: 23.14px;
+    text-align: left;
+    color: #DCDEE1;
+}
+
+#server{
+    width: 50px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 15.98px;
+    font-weight: 400;
+    line-height: 23.14px;
+    text-align: left;
+    color: #DCDEE1;
+}
+
+#lock{
+    width: 9.99px;
+    height: 12.99px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+#love{
+    width: 16.98px;
+    height: 16.98px;
+    gap: 0px;
+    /* border-radius: 5241.01px 0px 0px 0px; */
+    opacity: 0px;
+}
+
+.contentTwo{
+    width: 1,167.39px;
+    height: 49px;
+    gap: 3px;
+    opacity: 0px;
+}
+
+.contentTwo-textOne{
+    width: 1111.93px;
+    height: 23px;
+    gap: 2px;
+    opacity: 0px;
+}
+
+#recommend{
+    width: 353px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 15.98px;
+    font-weight: 400;
+    line-height: 23.14px;
+    text-align: left;
+    color: #DCDEE1;
+}
+
+#ffIntro{
+    width: 291.96px;
+    height: 23px;
+    padding: 0px 3px 0px 3px;
+    gap: 3px;
+    border-radius: 2px 0px 0px 0px;
+    opacity: 0px;
+    background: #5A65EA66;
+    color: #DCDEE1;
+}
+
+#conversation{
+    width: 266px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 15.98px;
+    font-weight: 400;
+    line-height: 23.14px;
+    text-align: left;
+    color: #DCDEE1;
+}
+
+#youCan{
+    width: 100px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 15.98px;
+    font-weight: 400;
+    line-height: 23.14px;
+    text-align: left;
+    color: #DCDEE1;
+}
+
+.contentTwo-textTwo{
+    width: 1040.95px;
+    height: 23px;
+    gap: 2px;
+    opacity: 0px;
+}
+
+#designSystem{
+    width: 679px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 15.98px;
+    font-weight: 400;
+    line-height: 23.14px;
+    text-align: left;
+    color: #DCDEE1;
+}
+
+#ffInterest{
+    width: 289.96px;
+    height: 23px;
+    padding: 0px 3px 0px 3px;
+    gap: 3px;
+    border-radius: 2px 0px 0px 0px;
+    opacity: 0px;
+    background: #5A65EA66;
+    color: #DCDEE1;
+}
+
+#channel{
+    width: 68px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 15.98px;
+    font-weight: 400;
+    line-height: 23.14px;
+    text-align: left;
+    color: #DCDEE1;
+}
+
+.contentThree{
+    width: 1,167.39px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.contentThree-text{
+    width: 1167.39px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+#deletedRole{
+    width: 790px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 15.98px;
+    font-weight: 400;
+    line-height: 23.14px;
+    text-align: left;
+    color: #DCDEE1;
+}
+
+.messageContent-wrap{
+    width: Hug (626.35px)px;
+height: Fixed (265.72px)px;
+padding: 7.99px 71.93px 0px 71.93px;
+gap: 7.99px;
+opacity: 0px;
+   
+}
+
+#mcImage{
+    width: 482.5px;
+    height: 217.77px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.mcText-wrap{
+    width: 255.74px;
+    height: 31.97px;
+    padding: 2px 15.98px 2px 15.98px;
+    gap: 9.99px;
+    border-radius: 3px 0px 0px 0px;
+    opacity: 0px;
+    background: #3F4147;
+}
+
+#mcText{
+    width: 223.77px;
+    height: 27.97px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 13.99px;
+    font-weight: 400;
+    line-height: 20.25px;
+    text-align: left;
+    color: #929395;
+    margin-top: 5px;
+}
+
+.messageFiggyBcg{
+    width: Fixed (1,254px)px;
+    height: Fixed (335px)px;
+    padding: 28px 12px 24px 16px;
+    gap: 0px;
+    opacity: 0px;
+    /* background-color: brown; */
+}
+
+.messageFiggy-wrap{
+    width: Fill (1,226px)px;
+    height: Hug (43.98px)px;
+    padding: 10px 16px 10px 16px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    display: flex;
+    justify-content: space-between;
+    opacity: 0px;
+    background: #383A3F;
+    margin-top: 220px;
+}
+
+.mfAddicon-wrap{
+    display: flex;
+    width: Hug (146.98px)px;
+    height: Hug (23.98px)px;
+    gap: 16px;
+    opacity: 0px;
+}
+
+#addIcon{
+    width: 23.98px;
+    height: 23.98px;
+    padding: 2.01px 1.99px 1.99px 2.01px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+#mfText{
+    width: 107px;
+    height: 20px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.27px;
+    text-align: left;
+    color: #FFFFFF4D;
+    margin-top: 4px;
+}
+
+.smileyOthersicon-wrap{
+    display: flex;
+    width: Hug (103.93px)px;
+    height: Hug (23.98px)px;
+    gap: 16px;
+    opacity: 0px;
+}
+
+.messageIcon{
+    width: 23.98px;
+    height: 23.98px;
+    padding: 1px 0px 1px 0px;
+    gap: 0px;
+    opacity: 0px;
+}

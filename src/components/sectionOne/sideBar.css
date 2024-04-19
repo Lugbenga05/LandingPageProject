@@ -1,0 +1,101 @@
+.sidebar-bcg{
+    width: 71.93px;
+    height: 946px;
+    background-color: #1e1f22;
+}
+
+.sidebar-frame{
+    width: 71.93px;
+    height: 946px;
+    gap: 8px;
+
+}
+
+.sidebariconBox{
+    width: 71.93px;
+    height: 55.95px;
+    gap: 8px;
+
+}
+
+.sideBar-icon{
+    width: fixed 47.95px;
+    height: fixed 47.95px;
+    padding: 11px 0px 0px 0px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.sidebarIcon-figgy{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#rectangle{
+    margin-top: 15px;
+    width: 4px;
+    height: 39.96px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #F2F3F5;
+
+}
+
+#border{
+    width: 26.97px;
+    height: 0px;
+    gap: 0px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+    border: 2px solid #35363C;
+    margin-top: 15px;
+    margin-left: 20px;
+
+}
+
+.sidebariconBox-two{
+    width: Hug (71.93px)px;
+    height: Hug (159.95px)px;
+    gap: 8px;
+    opacity: 0px;
+    margin-top: 10px;
+
+}
+
+.sidebarIcon-wrap{
+    width: Fixed (71.93px)px;
+    height: Hug (47.95px)px;
+    gap: 8px;
+    opacity: 0px;
+    /* margin-top: 5px; */
+}
+
+.sidebarIcon-loveIcon{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#indicator{
+    width: 3px;
+    height: 5.99px;
+    gap: 0px;
+    border-radius: 0px 3px 3px 0px;
+    opacity: 0px;
+    background: #D9D9D9;
+    margin-top: 20px;
+}
+
+.sideBarIcon-two{
+    width: 47.95px;
+    height: 47.95px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.sideBarIcon-image{
+    margin-left: 15px;
+}
+
+#sidebarIconAction{
+    margin-top: 4px;
+}

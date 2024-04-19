@@ -1,0 +1,200 @@
+.DMbackground{
+    width: 231.78px;
+    height: 946px;
+    gap: 0px;
+    opacity: 0px;
+    background: #2B2D31;
+}
+
+.startConversation-wrap{
+    width: 231.78px;
+    height: 47.95px;
+    padding: 0px 10px 0px 10px;
+    gap: 0px;
+    border: 0px 0px 1px 0px;
+    opacity: 0px;
+    border-bottom: 1px solid #202124
+}
+
+#startConversation-input{
+    width: 211.78px;
+    height: 25.97px;
+/* padding: 1px 5.99px 1px 5.99px; */
+    gap: 0px;
+    border-radius: 3px 0px 0px 0px;
+    opacity: 0px;
+    background: #1E1F22;
+    margin-top: 10px;
+    border: none;
+}
+
+#startConversation-input::placeholder{
+    width: 199.79px;
+    height: 20px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 13.99px;
+    font-weight: 400;
+    line-height: 20.25px;
+    text-align: left;
+    color: #959BA3;
+    padding: 8px;
+}
+
+.frame41{
+    width: 231.78px;
+    height: 327.97px;
+    padding: 8px 10px 8px 10px;
+    gap: 0px;
+    opacity: 0px;
+    /* background-color: beige; */
+}
+
+.friendNitroDM-wrap{
+    width:211.78px;
+    height: 129.16px;
+    gap: 1px;
+    opacity: 0px;
+}
+
+.friendNitro-wrap{
+    width: 211.78px;
+    height: 90.18px;
+    gap: 2px;
+    opacity: 0px;
+}
+
+.friendBcg{
+    width: 211.78px;
+    height: 44.09px;
+    padding: 5.99px 7.99px 5.99px 7.99px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.friendWrap{
+    width: 195.79px;
+    height: 23.98px;
+    gap: 11.99px;
+    opacity: 0px;
+    display: flex;
+}
+
+#friendsIcon{
+    width: 23.98px;
+    height: 23.98px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+#friendsText{
+    width: 57px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 15.98px;
+    font-weight: 500;
+    line-height: 23.14px;
+    text-align: left;
+    color: #959BA3;
+}
+
+.nitroBcg{
+    width: 211.78px;
+    height: 44.09px;
+    padding: 5.99px 7.99px 5.99px 7.99px;
+    gap: 0px;
+    opacity: 0px;
+/* background-color: red; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.nitroWrap{
+    display: flex;
+    width: 144.85px;
+    height: 23.98px;
+    gap: 11.99px;
+    opacity: 0px;
+}
+
+#nitroIcon{
+    width: 23.98px;
+    height: 23.98px;
+    padding: 4.69px 3px 5.31px 1px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+#nitroText{
+    width: 39px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 15.98px;
+    font-weight: 500;   
+    line-height: 23.14px;
+    text-align: left;
+    color: #959BA3;
+    margin-top: 5px;
+}
+
+#newIcon{
+    width: 50.95px;
+    height: 29.97px;
+    gap: 0px;
+    opacity: 0px;
+    margin-right: 10px;
+}
+
+.DM-bcg{
+    display: flex;
+    justify-content: space-between;
+    width: 211.78px;
+    height: 37.98px;
+    padding: 18px 8px 4px 10px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.DM-wrap{   
+    width: 107.89px;
+    height: 15.98px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 9px;
+}
+
+#DMtext{
+    width: 110px;
+    height: 17px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+/* font-size: 11.99px; */
+    font-weight: 700;
+    line-height: 17.36px;
+    text-align: left;
+    color: #959BA3;
+}
+
+#vectorIcon{
+    width: 11.99px;
+    height: 11.99px;
+    gap: 0px;
+    border: 0.5px 0px 0px 0px;
+    opacity: 0px;
+    margin-top: 9px;
+    margin-right: 10px;
+}
+
+.chatBcg{
+    width: 211.78px;
+    height: 182.81px;
+    padding: 1px 0px 0px 0px;
+    gap: 2px;
+    opacity: 0px;
+}

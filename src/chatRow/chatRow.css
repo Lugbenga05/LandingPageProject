@@ -1,0 +1,36 @@
+.chatLayout{
+    width: 211.78px;
+    height: 43.95px;
+/* padding: 5.99px 0px 5.99px 7.99px; */
+    margin-top: 5px;
+    gap: 11.99px;
+    opacity: 0px;
+    display: flex;
+}
+
+.chatLayout:hover{
+    background-color: #404248;
+    border-radius: 3px;
+}
+
+#avatarImage{
+    width: 31.97px;
+    height: 31.97px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 5px;
+}
+
+#avatarName{
+    width: 127.87px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Noto Sans KR;
+    font-size: 15.98px;
+    font-weight: 500;
+    line-height: 23.14px;
+    text-align: left;
+    color: #959BA3;
+    margin-top: 6.5px;
+}
